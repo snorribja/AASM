@@ -1,4 +1,4 @@
-# Automated Attack Surface Mapping (AASM) – Final Year Project  
+# Automated Attack Surface Mapping (AASM) – Final Project  
 **Reykjavík University**  
 *In collaboration with Defend Iceland*
 
