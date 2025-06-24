@@ -28,6 +28,6 @@ As part of our final BSc Software Engineering project, our team designed and imp
 
 ## Report Access
 
-The full project report is publicly available via Reykjavík University:
+The full project report is publicly available via Skemman:
 
 **hdl.handle.net/1946/50482**
